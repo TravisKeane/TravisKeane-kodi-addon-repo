@@ -1,4 +1,4 @@
-Mafarricos-kodi-demo-repo
+TravisKeane-kodi-addon-repo
 =========================
 
 Demonstration of a basic repository for kodi (To use as template)
